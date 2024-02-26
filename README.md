@@ -9,7 +9,7 @@
 apt update -y && apt upgrade -y
 apt install git -y
 apt install python -y
-git clone https://github.com/NightlyPsikopat/SpamWa
+git clone https://github.com/TSC-ID/SpamWa
 cd brutal
 pip install -r install.txt
 python brutal.py
@@ -20,7 +20,7 @@ python brutal.py
 apt update && apt upgrade
 apt install git -y
 apt install python3-pip
-git clone https://github.com/NightlyPsikopat/SpamWa
+git clone https://github.com/TSC-ID/SpamWa
 cd brutal
 pip3 install -r install.txt
 python3 brutal.py
